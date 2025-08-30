@@ -62,9 +62,8 @@ Support agent John sees in his portal that System Administrator Jane left a mess
 
 ---
 
-This was a simplistic scenario showing ticket creation, assignment, agent communication, and resolution. Tickets can also be reassigned, escalated in severity, or routed to a different department depending on business impact.
+This walkthrough demonstrated a basic example of creating a ticket, assigning it, facilitating agent communication, and resolving it. In real-world use, tickets may also be reassigned, escalated based on urgency, or redirected to other departments depending on the impact.
 
-Help desk agents can expect to handle anywhere from **10 to 100 tickets** per day depending on company size.
+Depending on the organization’s size, help desk agents might manage anywhere from **10 to 100 tickets daily**.
 
-I hope this tutorial helps you understand the general ticket lifecycle.
-
+Hopefully, this guide gave you a clearer understanding of how a typical ticket lifecycle works.
